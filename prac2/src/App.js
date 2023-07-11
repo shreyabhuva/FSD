@@ -5,7 +5,8 @@ import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 
-function App() {
+function App() 
+{
   return(
   <div className='wrapper'>
     <h1>Marine Mammals</h1>
